@@ -3,7 +3,7 @@
 
 **This onboarding material is focused on the general requirements for members of the HSCP ColeSlaw development teams.  Members of the SRE team who support the HSCP ColeSlaw offerings will need the access described here, as well as additional access described in the SRE onboarding. (TODO: Find SRE onboarding materials to link here)**
 
-The HSCP ColeSlaw platform offerings (Watson Query and DB2 on Cloud) require access to some specific development tools and resources. They are listed below, along with the means of how to request access.  Following the [Obtaining Privileges section](#obtaining-privileges) on how to request access, the [Education Sessions](#education-sessions) section contains links to HSCP ColeSlaw education presentation recordings.  Additionally, there is a [Development Loop Example](#development-loop-example) section that contains a sample walk through of a simple development change.
+The HSCP ColeSlaw platform offerings (Watson Query and DB2 on Cloud) require access to some specific development tools and resources. They are listed below, along with the means of how to request access.  Following the [here](#obtaining-privileges) on how to request access, the [Education Sessions](#education-sessions) section contains links to HSCP ColeSlaw education presentation recordings.  Additionally, there is a [Development Loop Example](#development-loop-example) section that contains a sample walk through of a simple development change.
 
 If you have any questions or issue with the instructions below, please contact your manager or chrisr@ca.ibm.com for assistance.
 
